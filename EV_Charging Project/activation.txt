@@ -1,1 +1,0 @@
-& "C:\miniconda_envs\ev_env\python.exe" -m streamlit run "D:\Sasi\GUVI HCL AI-ML\EV_Charging Project\ev_app.py"
