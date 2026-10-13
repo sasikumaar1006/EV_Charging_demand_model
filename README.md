@@ -14,6 +14,7 @@ The project is organized into a clean, production-ready directory structure:
 * **`requirements.txt`**: Lists all exact library dependencies required for local execution and cloud deployment.
 
 [View Live EV Charging Analytics & Demand Platform App](https://evchargingdemandmodel-ygl9pjkscvreuxxf5okfhh.streamlit.app/)
+
 The application is structured into four interactive intelligence tabs:
 1. **EDA Insights:** Comprehensive visualization of spatial and temporal usage patterns, peak commuting windows, location-based energy intensity, monthly trends, and hardware preferences.
 2. **Regression (Demand kWh):** Individual session energy demand prediction based on duration, location target-encoded values, charger type, company, and start times.
